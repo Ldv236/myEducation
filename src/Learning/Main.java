@@ -92,7 +92,7 @@ public class Main {
         } else if (number == 2) {
             line = "two";
         } else {
-            line = "other";
+            line = "something";
         }
 
 
